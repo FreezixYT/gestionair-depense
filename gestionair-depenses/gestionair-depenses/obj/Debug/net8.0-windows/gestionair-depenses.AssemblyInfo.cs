@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gestionair-depenses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65b76938b11d310268129d8fceb3e49c43b236dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("gestionair-depenses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gestionair-depenses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|c:\\users\\nathan\\desktop\\buraux\\cours\\programation\\projet-gestionnair\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|solutionrelative:gestionair-depenses\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|c:\\users\\nathan\\desktop\\buraux\\cours\\programation\\projet-gestionnair\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|solutionrelative:gestionair-depenses\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|solutionrelative:gestionair-depenses\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|solutionrelative:gestionair-depenses\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|c:\\users\\nathan\\desktop\\buraux\\cours\\programation\\projet-gestionnair\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|solutionrelative:gestionair-depenses\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|solutionrelative:gestionair-depenses\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|solutionrelative:gestionair-depenses\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|solutionrelative:gestionair-depenses\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A8FAABC-0111-4B73-8C40-ED70C50BC431}|gestionair-depenses\\gestionair-depenses.csproj|solutionrelative:gestionair-depenses\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "gestionair-depenses\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form3.Designer.cs",
+              "RelativeToolTip": "gestionair-depenses\\Form3.Designer.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAwMoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:30:54.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "gestionair-depenses\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form1.Designer.cs",
+              "RelativeToolTip": "gestionair-depenses\\Form1.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIAzwD0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:23:27.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form2.cs",
+              "RelativeDocumentMoniker": "gestionair-depenses\\Form2.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form2.cs [Conception]",
+              "RelativeToolTip": "gestionair-depenses\\Form2.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:46:02.541Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form3.cs",
+              "RelativeDocumentMoniker": "gestionair-depenses\\Form3.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form3.cs [Conception]",
+              "RelativeToolTip": "gestionair-depenses\\Form3.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:58:04.208Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form3.cs",
+              "RelativeDocumentMoniker": "gestionair-depenses\\Form3.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form3.cs",
+              "RelativeToolTip": "gestionair-depenses\\Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:57:01.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form4.cs",
+              "RelativeDocumentMoniker": "gestionair-depenses\\Form4.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form4.cs",
+              "RelativeToolTip": "gestionair-depenses\\Form4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:57:41.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form1.cs",
+              "RelativeDocumentMoniker": "gestionair-depenses\\Form1.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form1.cs [Conception]",
+              "RelativeToolTip": "gestionair-depenses\\Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:16:18.97Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form1.cs",
+              "RelativeDocumentMoniker": "gestionair-depenses\\Form1.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form1.cs",
+              "RelativeToolTip": "gestionair-depenses\\Form1.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAnwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:35:11.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form4.cs",
+              "RelativeDocumentMoniker": "gestionair-depenses\\Form4.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\Buraux\\Cours\\Programation\\PROJET-GESTIONNAIR\\gestionair-depense\\gestionair-depenses\\gestionair-depenses\\Form4.cs [Conception]",
+              "RelativeToolTip": "gestionair-depenses\\Form4.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:46:45.514Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
